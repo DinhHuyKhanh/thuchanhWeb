@@ -1,0 +1,33 @@
+
+/* @Description
+@author: Đinh Huy Khánh
+@class: 1910A05
+@create_date: 7-01-2021
+@modifier: 
+@modifier_date: */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+}
+ .image-skill{
+    width: 30%;
+    float: left;
+}
+
+.content-skill{
+    width: 60%;
+    float: right;
+}
+
+.text2{
+    margin-top: 20px;
+    float: left;
+}
+
+

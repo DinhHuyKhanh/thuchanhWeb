@@ -1,0 +1,184 @@
+
+
+/* @Description
+@author: Đinh Huy Khánh
+@class: 1910A05
+@create_date: 21-01-2021
+@modifier: 
+@modifier_date:  */
+ 
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.clearfix:after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.menu {
+  list-style: none;
+}
+
+.header {
+  background-color: cyan;
+  color: white;
+  font-size: 18px;
+  padding: 20px 10px;
+  font-weight: bold;
+}
+
+.navigation {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 80%;
+      grid-template-columns: 20% 80%;
+  background-color: green;
+}
+
+.navigation .menu-main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% 25% 25% 25%;
+      grid-template-columns: 25% 25% 25% 25%;
+}
+
+.navigation .menu-main li {
+  position: relative;
+}
+
+.navigation .menu-main li:hover .menu-sub {
+  -webkit-transform: scaleY(1);
+          transform: scaleY(1);
+}
+
+.navigation .menu-main li a {
+  display: block;
+  padding: 10px 0;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  text-align: center;
+}
+
+.navigation .menu-main li a:hover {
+  background-color: #1a4e1a;
+}
+
+.navigation .menu-sub {
+  background-color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  -webkit-transform-origin: top;
+          transform-origin: top;
+  -webkit-transform: scaleY(0);
+          transform: scaleY(0);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navigation .menu-sub li a {
+  color: black;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navigation .menu-sub li a:hover {
+  background-color: #c9c0c0 !important;
+}
+
+.content-main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 70%;
+      grid-template-columns: 20% 70%;
+}
+
+.content-main .search {
+  padding: 20px;
+}
+
+.content-main .search form {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 70% 30%;
+      grid-template-columns: 70% 30%;
+  grid-gap: 10px;
+}
+
+.content-main .search form input {
+  padding: 5px 10px;
+  outline: none;
+}
+
+.content-main .search form button {
+  padding: 5px 10px;
+  height: 30px;
+}
+
+.content-main .list-book {
+  padding-top: 20px;
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 10px;
+  -ms-grid-columns: 25% 25% 25% 25%;
+      grid-template-columns: 25% 25% 25% 25%;
+}
+
+.content-main .list-book .book {
+  border: 1px solid black;
+}
+
+.content-main .list-book .book .heading {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
+
+.content-main .list-book .book img {
+  width: 100%;
+}
+
+.footer {
+  padding: 20px;
+  background-color: green;
+  margin-top: 50px;
+}
+
+.footer p {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  .navigation {
+    -ms-grid-columns: none;
+        grid-template-columns: none;
+  }
+  .navigation .menu-main {
+    -ms-grid-columns: none;
+        grid-template-columns: none;
+  }
+  .content-main {
+    -ms-grid-columns: none;
+        grid-template-columns: none;
+  }
+  .content-main .list-book {
+    -ms-grid-columns: 50% 50%;
+        grid-template-columns: 50% 50%;
+    padding: 0 10px;
+  }
+}
+.content-main .list-book img{
+  height: 300PX;
+}

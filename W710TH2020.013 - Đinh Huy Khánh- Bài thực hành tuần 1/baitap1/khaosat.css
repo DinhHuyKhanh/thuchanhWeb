@@ -1,0 +1,75 @@
+
+ /* @Description
+ @author: Đinh Huy Khánh
+ @class: 1910A05
+ @create_date: 7-01-2021
+ @modifier: 
+ @modifier_date: */
+*{
+   margin: 0;
+   padding: 5px;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+.text1 {
+    text-align: center;
+}
+.text1 h2{
+    margin: auto;
+    border-bottom: 1px dotted;
+    width: 40%;
+}
+.clickSkill{
+ 
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    padding-left: 100px;
+}
+.clickSkill .skill1{
+    
+    width: 50%;
+    float: left;
+}
+.clickSkill::after{
+    display: table;
+    clear: both;
+}
+#text2{
+    width:50%;
+    padding-top: 20px;
+}
+.profile{
+    border: 1px solid black;
+    padding-left: 100px;
+    margin: 20px;
+    padding: 30px;
+}
+.profile .profile1{
+    width: 30%;
+    float: left;
+}
+.profile .profile2{
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.profile .imageProfile img{
+    width: 150px;
+    height: 100px;
+}
+
+.profile .imageProfile {
+    float: right; 
+    padding-right: 200px;   
+}
+
+
+
+
+
+
+

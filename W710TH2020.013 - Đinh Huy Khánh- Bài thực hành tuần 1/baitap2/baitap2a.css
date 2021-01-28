@@ -1,0 +1,58 @@
+
+/* @Description
+@author: Đinh Huy Khánh
+@class: 1910A05
+@create_date: 7-01-2021
+@modifier: 
+@modifier_date:   */
+*{
+    
+    margin-top: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+#title{
+    text-align: center;
+}
+.list
+{
+    width: 80%;
+    margin-top: 10px ;
+    
+}
+.list .list1{
+    padding: 10px;
+    padding-left: 200px;
+}
+.list .list2{
+    padding: 10px;
+    padding-left: 100px;   
+}
+
+ .text1{
+     margin-left: 100px;
+     float: left;
+ }
+ img{
+     width: 150px;
+     height: 150px;
+ }
+
+#a1 {
+    border-top: 1px solid black;
+    margin-top: 10px;
+}
+#a2{
+    float:right;
+}
+.footer{
+    margin-top:10px;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    height: 30px;
+}
+
+
