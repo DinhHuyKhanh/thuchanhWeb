@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.box-size-list {
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 35%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+#list {
+    width: 150px;
+    height: 20px;
+}
+
+#chuoi {
+    width: 250px;
+    height: 20px;
+}
+
+#button {
+    padding-left: 230px;
+}

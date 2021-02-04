@@ -1,0 +1,39 @@
+/**
+@Description
+@author: Đinh Huy Khánh
+@class: 1910A05
+@create_date: 4-02-2021
+@modifier: 
+@modifier_date:  
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.main {
+    margin-top: 15%;
+    margin-left: 35%;
+    border: 1px solid black;
+    width: 200px;
+    height: 80px;
+}
+
+input {
+    width: 100px;
+}
+
+#xem {
+    width: 50px;
+}
+
+#xoa {
+    width: 50px;
+}
+
+#button {
+    padding-left: 66px;
+}
