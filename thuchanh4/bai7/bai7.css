@@ -1,0 +1,23 @@
+body {
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+.ds-hang-sx {
+    border: 2px solid black;
+    width: 400px;
+}
+
+#ds-hang {
+    width: 100px;
+    height: 30px;
+}
+
+.them-huy-hang {
+    margin-left: 56%;
+}

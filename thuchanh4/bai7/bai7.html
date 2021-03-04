@@ -1,0 +1,42 @@
+<!-- @Description
+@@author: Đinh Huy Khánh 
+@Create : 3/4/2021 
+@class : 1910A05 
+@modifier: 
+@modifier_date:
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bai7.css">
+
+</head>
+
+<body>
+
+    <div class="ds-hang-sx">
+        <label for="ds-hang">Danh sách Hãng sản xuất CPU: </label>
+        <select name="ds-hang" id="ds-hang">
+           
+        </select>
+
+        <div class="them-moi-hang" id="them-moi-hang" style="display: none;">
+            <label for="them-moi">Hãng: </label>
+            <input type="text" id="text-1" autocomplete="off">
+        </div>
+
+        <div class="them-huy-hang" id="them-huy-hang">
+            <button class="them-hang" id="them-hang" onclick="openThem()">Them</button>
+            <button class="huy-hang" id="huy-hang" onclick="Huy()">Hủy</button>
+        </div>
+
+    </div>
+</body>
+<script src="bai7.js"></script>
+
+</html>

@@ -1,0 +1,63 @@
+<!-- 
+    @Description
+@@author: Đinh Huy Khánh 
+@Create : 3/4/2021 
+@class : 1910A05 
+@modifier: 
+@modifier_date:
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bai8.css">
+</head>
+
+<body>
+    <table id="tb-sx">
+        <tr>
+            <td>STT</td>
+            <td>Tên VXL</td>
+            <td>Hãng sx</td>
+            <td>Ngày ra mắt</td>
+            <td>Giá (vnđ)</td>
+        </tr>
+
+    </table>
+    <br>
+    <div class="addNew">
+        <div id="i1">
+            <span>Tên VXL :</span>
+            <input type="text" id="vxl"> <br>
+        </div>
+
+        <div id="i1">
+            <span>Hãng :</span>
+            <input type="text" id="hang"> <br>
+        </div>
+
+        <div id="i1">
+            <span>Ngày ra mắt :</span>
+            <input type="text" id="ngayRaMat"> <br>
+        </div>
+
+        <div id="i1">
+            <span>Giá :</span>
+            <input type="text" id="gia"> <br>
+
+        </div>
+
+        <div class="them-huy">
+            <button id="them" onclick="addNew()">Thêm</button>
+            <button id="huy" onclick="reset()">Hủy</button>
+        </div>
+    </div>
+
+</body>
+<script src="bai8.js"></script>
+
+</html>
