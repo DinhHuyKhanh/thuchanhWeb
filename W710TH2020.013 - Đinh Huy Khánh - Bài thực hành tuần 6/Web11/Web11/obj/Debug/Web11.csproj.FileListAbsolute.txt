@@ -1,0 +1,118 @@
+D:\laptrinhweb\Web11\Web11\bin\Web11.dll.config
+D:\laptrinhweb\Web11\Web11\bin\Web11.dll
+D:\laptrinhweb\Web11\Web11\bin\Web11.pdb
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csc.exe
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csc.exe.config
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csc.rsp
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csi.exe
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csi.exe.config
+D:\laptrinhweb\Web11\Web11\bin\roslyn\csi.rsp
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.Managed.Core.targets
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\laptrinhweb\Web11\Web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.AppContext.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Collections.Immutable.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Console.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Globalization.Calendars.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.IO.Compression.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.IO.FileSystem.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Net.Http.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Net.Sockets.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Reflection.Metadata.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.ValueTuple.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Xml.XmlDocument.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Xml.XPath.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\laptrinhweb\Web11\Web11\bin\roslyn\vbc.exe
+D:\laptrinhweb\Web11\Web11\bin\roslyn\vbc.exe.config
+D:\laptrinhweb\Web11\Web11\bin\roslyn\vbc.rsp
+D:\laptrinhweb\Web11\Web11\bin\roslyn\VBCSCompiler.exe
+D:\laptrinhweb\Web11\Web11\bin\roslyn\VBCSCompiler.exe.config
+D:\laptrinhweb\Web11\Web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laptrinhweb\Web11\Web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laptrinhweb\Web11\Web11\obj\Debug\Web11.csprojAssemblyReference.cache
+D:\laptrinhweb\Web11\Web11\obj\Debug\Web11.csproj.CoreCompileInputs.cache
+D:\laptrinhweb\Web11\Web11\obj\Debug\Web11.csproj.CopyComplete
+D:\laptrinhweb\Web11\Web11\obj\Debug\Web11.dll
+D:\laptrinhweb\Web11\Web11\obj\Debug\Web11.pdb
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\Web11.dll.config
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\Web11.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\Web11.pdb
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csc.exe
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csc.exe.config
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csc.rsp
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csi.exe
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csi.exe.config
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\csi.rsp
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.Managed.Core.targets
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.AppContext.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Collections.Immutable.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Console.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Globalization.Calendars.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.IO.Compression.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.IO.FileSystem.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Net.Http.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Net.Sockets.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Reflection.Metadata.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.ValueTuple.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Xml.XmlDocument.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Xml.XPath.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\vbc.exe
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\vbc.exe.config
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\vbc.rsp
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\VBCSCompiler.exe
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\roslyn\VBCSCompiler.exe.config
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\obj\Debug\Web11.csprojAssemblyReference.cache
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\obj\Debug\Web11.csproj.CoreCompileInputs.cache
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\obj\Debug\Web11.csproj.CopyComplete
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\obj\Debug\Web11.dll
+D:\laptrinhweb\W710TH2020.013 - Đinh Huy Khánh - Bài thực hành tuần 6\Web11\Web11\obj\Debug\Web11.pdb

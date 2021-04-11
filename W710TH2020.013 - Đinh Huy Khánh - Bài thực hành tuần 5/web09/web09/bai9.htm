@@ -1,0 +1,78 @@
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style>
+        body {
+            padding-top: 10%;
+            padding-left: 30%;
+        }
+
+        table,
+        tr,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .addNew {
+            width: 300px;
+            border: 1px solid black;
+        }
+
+        #i1 {
+            margin-top: 5px;
+            padding-top: 5px;
+        }
+
+            #i1 input {
+                float: right;
+            }
+
+        .them-huy {
+            padding-top: 10px;
+            padding-left: 60%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" action="xuly2.aspx" method="get">
+        <div>
+            
+            <br>
+            <div class="addNew">
+                <div id="i1">
+                    <span>Tên VXL :</span>
+                    <input type="text" id="vxl" name="vxl"> <br>
+                </div>
+
+                <div id="i1">
+                    <span>Hãng :</span>
+                    <input type="text" id="hang" name="hang"> <br>
+                </div>
+
+                <div id="i1">
+                    <span>Ngày ra mắt :</span>
+                    <input type="text" id="ngayRaMat" name="ngayRaMat"> <br>
+                </div>
+
+                <div id="i1">
+                    <span>Giá :</span>
+                    <input type="text" id="gia" name="gia"> <br>
+
+                </div>
+
+                <div class="them-huy">
+                    <button id="them" onclick="addNew()" >Thêm</button>
+                    <button id="huy" onclick="reset()">Hủy</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

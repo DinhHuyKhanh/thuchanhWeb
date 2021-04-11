@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="xuly.aspx.cs" Inherits="web09.xuly" %>
